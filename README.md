@@ -7,7 +7,7 @@
 # MewTools
 **A lightweight All-In-One DMA Tool**
 
-[⭐ Star this repo](https://github.com/Zephelinn/MewTools)
+[⭐ Star this repo](https://github.com/Zephelinn/MewTools)  
 [Discord](https://discord.gg/mewdma)
 
 
