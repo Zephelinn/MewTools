@@ -44,7 +44,3 @@ Easily flash your DMA card with any firmware .bin you have available.
 ### 🔢 Makcu Management
 
 Manage your Makcu mouse emulation device with ease.
-
-## Video
-
-<video src="https://cdn.discordapp.com/attachments/1509224241885741086/1536471772243693648/MEW_AIO_TOOL_SHOWCASE.mov?ex=6a7b8658&is=6a7a34d8&hm=b2e2ec3fc0b92975c3145476e8e0b3d2501db68dbdbe100d844ab09c69253c19&" width="1200" controls></video>
